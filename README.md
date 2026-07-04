@@ -11,3 +11,5 @@ Also the second one.
 Git branch learned
 
 This is for only featured-test branch.
+
+Check for added any commits in this branch
