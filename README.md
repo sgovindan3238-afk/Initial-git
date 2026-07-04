@@ -12,4 +12,4 @@ Git branch learned
 
 This is for only featured-test branch.
 
-"Changed on main branch instead"
+Check for added any commits in this branch
