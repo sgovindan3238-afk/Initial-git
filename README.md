@@ -14,6 +14,4 @@ This is for only featured-test branch.
 
 Check for added any commits in this branch
 
-Currently updated firstly.
-
-Curretnly updated secondly.
+Here these last 2 lines were updated by another team member.
